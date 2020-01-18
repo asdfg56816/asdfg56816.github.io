@@ -1,0 +1,62 @@
+*{padding:0px; margin :0px;}
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+body {font-family: 'Caveat', cursive;
+cursor: url(../img/new_pointer.cur),auto,default;
+background-image: url("../img/u.png");}
+@import url('https://fonts.googleapis.com/css?family=Pattaya&display=swap');
+.igr {font-family: 'Pattaya', sans-serif;}
+@import url('https://fonts.googleapis.com/css?family=Ruslan+Display&display=swap');
+.sk {font-family: 'Ruslan Display', cursive;}
+h1{color: red;}
+.menu a {color:#01FC41;font-family:sue vermeer;text-decoration:none;}
+.spisok {color:#234DC1;font-family:dodo casals;}
+a {font-family:Lee Toscanini;color:red;}
+.p {color:white;}
+.golos {color:white;}
+		@media screen and (min-width:240px) and (max-width:320px) {
+ 
+}
+
+@media screen and (min-width:321px) and (max-width:480px) {
+ 
+}
+
+@media screen and (min-width:481px) and (max-width:640px) {
+ 
+}
+
+@media screen and (min-width:641px) and (max-width:960px) {
+ 
+}
+
+
+@media screen and (min-width:961px) and (max-width:1024px) {
+ 
+}
+
+@media screen and (min-width:1024px) and (max-width:4000px) {
+ 
+}
+@media screen and (min-width:600px) and (max-width:800px) {
+ 
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+ 
+}
+
+@media screen and (min-width:801px) and (max-width:1280px) {
+ 
+}
+
+@media screen and (min-width:1050px) and (max-width:1680px) {
+ 
+}
+
+@media screen and (min-width:1080px) and (max-width:1920px) {
+ 
+}
+
+@media screen and (min-width:1440px) and (max-width:2560px) {
+ 
+}
